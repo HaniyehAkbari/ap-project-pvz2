@@ -1,0 +1,172 @@
+{
+  "BONK_CHOY": {
+    "plantfood_on": {"duration": 0.95},
+    "plantfood_off": {"duration": 0.3},
+    "plantfood": {"duration": 2}
+  },
+  "WASABI_WHIP": {
+    "plantfood_on": {"duration": 0.95},
+    "plantfood_off": {"duration": 1},
+    "plantfood": {"duration": 2}
+  },
+  "PHAT_BEET": {
+    "plantfood": {"duration": 1.5, "releaseTime": 1.3}
+  },
+  "KIWIBEAST": {
+    "plantfood": {"duration": 2.9, "releaseTime": 0.75}
+  },
+  "SUNFLOWER": {
+    "special": { "duration": 2.4, "releaseTime": 1 },
+    "plantfood": {"duration": 1.5}
+  },
+  "TWIN_SUNFLOWER": {
+    "special": { "duration": 1.7, "releaseTime": 0.5 },
+    "plantfood": {"duration": 2.5}
+  },
+  "SUN_SHROOM": {
+    "special_stage3": { "duration": 2.1, "releaseTime": 0.6 },
+    "plantfood": {"duration": 1.5}
+  },
+  "PRIMAL_SUNFLOWER": {
+    "special": { "duration": 1.9, "releaseTime": 0.7 },
+    "plantfood": {"duration": 1.5}
+  },
+  "GOLD_BLOOM": {
+    "attack": { "duration": 2.9, "releaseTime": 0.5 }
+  },
+  "PEASHOOTER": {
+    "attack": { "duration": 1, "releaseTime": 0.5 }
+  },
+  "REPEATER": {
+    "attack": { "duration": 1.1, "releaseTime": 0.5 },
+    "plantfood2": {"releaseTime": 1.85}
+  },
+  "THREEPEATER": {
+    "attack": { "duration": 1.1, "releaseTime": 0.5 }
+  },
+  "SNOW_PEA": {
+    "attack": { "duration": 1.4, "releaseTime": 0.5 }
+  },
+  "XSHOT": {
+    "attack": { "duration": 1.8, "releaseTime": 0.8 }
+  },
+  "PEA_POD": {
+    "attack": { "duration": 1.1, "releaseTime": 0.7 },
+    "plantfood_on": {"duration": 1.45},
+    "plantfood_off": {"duration": 0.75},
+    "plantfood2": {"releaseTime": 0.55}
+  },
+  "SPLIT_PEA": {
+    "attack": { "duration": 1, "releaseTime": 0.5 }
+  },
+  "CITRON": {
+    "attack": { "duration": 1.4, "releaseTime": 0.4 },
+    "plantfood2": {"releaseTime": 0.8}
+  },
+  "BOWLING_BULB": {
+    "special": { "duration": 2.7, "releaseTime": 0.6 }
+  },
+  "CACTUS": {
+    "attack": { "duration": 1.1, "releaseTime": 0.5 },
+    "plantfood2": {"releaseTime": 0.5}
+  },
+  "FIRE_PEASHOOTER": {
+    "attack": { "duration": 1.1, "releaseTime": 0.5 }
+  },
+  "STARFRUIT": {
+    "attack": { "duration": 1.1, "releaseTime": 0.6 },
+    "plantfood_on": {"duration": 0.35},
+    "plantfood_off": {"duration": 0.3}
+  },
+  "POISON_PEASHOOTER": {
+    "attack": { "duration": 1.7, "releaseTime": 0.4 },
+    "plantfood2": {"releaseTime": 1.15}
+  },
+  "MEGA_GATLING": {
+    "attack": { "duration": 1.1, "releaseTime": 0.5 }
+  },
+  "SEA_SHROOM": {
+    "attack": { "duration": 1.1, "releaseTime": 0.4 }
+  },
+  "PUFF_SHROOM": {
+    "special": { "duration": 0.9, "releaseTime": 0.4 }
+  },
+  "FUME_SHROOM": {
+    "special": { "duration": 1.9, "releaseTime": 0.5 },
+    "plantfood2": {"releaseTime": 1.35}
+  },
+  "CABBAGE_PULT": {
+    "attack": { "duration": 1.7, "releaseTime": 0.55 }
+  },
+  "KERNEL_PULT": {
+    "attack": { "duration": 1.5, "releaseTime": 0.6 }
+  },
+  "MELON_PULT": {
+    "attack": { "duration": 2, "releaseTime": 0.7 }
+  },
+  "WINTER_MELON": {
+    "attack": { "duration": 2.2, "releaseTime": 0.8 }
+  },
+  "PEPPER_PULT": {
+    "attack": { "duration": 2.1, "releaseTime": 0.4 }
+  },
+  "CHOMPER": {
+    "special": { "duration": 1.95 },
+    "plantfood_on": {"duration": 0.35},
+    "plantfood_off": {"duration": 1.9},
+    "plantfood": {"duration": 2}
+  },
+  "ENLIGHTEN_MINT": {
+    "intro": {"duration": 3.25}
+  },
+  "APPEASE_MINT": {
+    "intro": {"duration": 2.2}
+  },
+  "ARMA_MINT": {
+    "intro": {"duration": 2.9}
+  },
+  "BOMBARD_MINT": {
+    "intro": {"duration": 1.1}
+  },
+  "ENFORCE_MINT": {
+    "intro": {"duration": 2.8}
+  },
+  "REINFORCE_MINT": {
+    "intro": {"duration": 1.9}
+  },
+  "ENCHANT_MINT": {
+    "intro": {"duration": 1.8}
+  },
+  "SPEAR_MINT": {
+    "intro": {"duration": 1.4}
+  },
+  "CONTAIN_MINT": {
+    "intro": {"duration": 3.3}
+  },
+  "LILY_PAD": {
+    "plantfood": {"duration": 1.5}
+  },
+  "MAGNET_SHROOM": {
+    "plantfood_on": {"duration": 0.35},
+    "plantfood_off": {"duration": 0.55},
+    "plantfood": {"duration": 1.1}
+  },
+  "PRIMAL_POTATO_MINE": {
+    "plantfood_on": {"duration": 0.5},
+    "plantfood_off": {"duration": 0.5},
+    "plantfood": {"duration": 0.5}
+  },
+  "POTATO_MINE": {
+    "plantfood_on": {"duration": 0.35},
+    "plantfood_off": {"duration": 0.55},
+    "plantfood": {"duration": 0.5}
+  },
+  "TANGLE_KELP": {
+    "plantfood_on": {"duration": 1.9},
+    "plantfood_off": {"duration": 0.6},
+    "plantfood": {"duration": 2}
+  },
+  "ICEBURG": {
+    "plantfood": {"duration": 1.5}
+  }
+}

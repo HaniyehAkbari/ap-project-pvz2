@@ -1,0 +1,44 @@
+package com.pvz2.models.enums;
+
+public enum ProjectileType {
+    PEA("STRAIGHT"),
+    ICE_PEA("STRAIGHT"),
+    FIRE_PEA("STRAIGHT"),
+    GIANT_PEA("STRAIGHT"),
+    PLASMA("STRAIGHT"),
+    CITRON("STRAIGHT"),
+    ROTOBAGA_PROJECTILE("STRAIGHT"),
+    CACTUS("STRAIGHT"),
+    CACTUS_SPECIAL("STRAIGHT"),
+    STAR("STRAIGHT"),
+    GOO("STRAIGHT"),
+    GOO_SPECIAL("STRAIGHT"),
+    SMALL_SHROOM("STRAIGHT"),
+    SEA_SHROOM("STRAIGHT"),
+    FUME("STRAIGHT"),
+    FUME_SPECIAL("STRAIGHT"),
+    SMALL_BULB("STRAIGHT"),
+    MEDIUM_BULB("STRAIGHT"),
+    LARGE_BULB("STRAIGHT"),
+    SPECIAL_BULB("STRAIGHT"),
+    GRAPE("STRAIGHT"),
+    CABBAGE("LOBBED"),
+    SPECIAL_CABBAGE("LOBBED"),
+    KERNEL("LOBBED"),
+    BUTTER("LOBBED"),
+    MELON("LOBBED"),
+    SPECIAL_MELON("LOBBED"),
+    PEPPER("LOBBED"),
+    SPECIAL_PEPPER("LOBBED"),
+    SPECIAL_ICE_MELON("LOBBED"),
+    ICE_MELON("LOBBED"),
+
+    BOWLING_STRAIGHT("STRAIGHT");
+
+
+    public final String movement;
+
+    ProjectileType(String movement) {
+        this.movement = movement;
+    }
+}

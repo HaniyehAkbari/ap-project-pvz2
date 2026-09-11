@@ -1,0 +1,250 @@
+{
+  "questStats": {
+    "sunsCollectedToday": 0,
+    "zombiesKilledToday": 0,
+    "lastResetDate": "2026-07-30",
+    "totalZombiesKilled": 0,
+    "zombiesKilledByPlant": {},
+    "zombiesKilledByFamily": {},
+    "sunProducerPlantsInLevel": 0,
+    "plantsLostInLevel": 0,
+    "levelWon": false,
+    "onlyPlantKills": true,
+    "explosivePlantsUsedInLevel": 0,
+    "symmetryAchieved": false,
+    "onlyFamilyKills": true,
+    "firstWaveStartTime": 0,
+    "zombiesKilledInFirstWave": 0,
+    "firstWaveStarted": false,
+    "finalSunCount": -1,
+    "emptyColumnsInLevel": [],
+    "emptyRowsInLevel": [],
+    "emptyColumnForCross": -1,
+    "emptyRowForCross": -1,
+    "lawnmowerKills": 0,
+    "familiesUsedInLevel": [],
+    "mushroomPlantsUsedInLevel": 0,
+    "totalPlantsUsedInLevel": 0,
+    "consecutiveWinsMaxDifficulty": 0,
+    "zombiesKilledInFirstColumnWithoutMower": 0,
+    "zombiesKilledByChapter": {}
+  },
+  "username": "haniyeh",
+  "hashPassword": "87bffa54d47c2fdf0c2b44595db0855f66af848d826bf6112529568c14af5cfa",
+  "nickname": "hanieh",
+  "email": "haniyeh@akbari.com",
+  "gender": "female",
+  "securityQ": "1. What is your best friend\u0027s name?",
+  "securityA": "3a6d64c24cf80b69ccda37650406467e8266667b50cfd0b984beb3651b129ed7",
+  "gamesPlayed": 0,
+  "completedMiniGames": [],
+  "unlockedChapter": 1,
+  "currentLevel": 0,
+  "unlockedLevel": 1,
+  "coins": 10000,
+  "gems": 1000,
+  "seedPackets": {},
+  "unlockedPlantsLevels": {
+    "ICEBERG_LETTUCE": 1,
+    "PEASHOOTER": 1,
+    "REPEATER": 1,
+    "GRAVE_BUSTER": 1,
+    "POTATO_MINE": 1,
+    "EXPLODE_O_NUT": 1,
+    "SNOW_PEA": 1,
+    "SUNFLOWER": 1,
+    "LILY_PAD": 1,
+    "CABBAGE_PULT": 1,
+    "CHERRY_BOMB": 1,
+    "WALL_NUT": 1,
+    "GIANT_WALLNUT": 1
+  },
+  "plantBoosts": {},
+  "showedZombies": {
+    "ZombieRa": false,
+    "ZombieConeHead": false,
+    "ZombieTombRaiser": false,
+    "ZombieDarkJuggler": false,
+    "ZombieGargantuar": false,
+    "ZombieImp": false,
+    "ZombieIceAgeDodo": false,
+    "ZombieDarkImpDragon": false,
+    "ZombieArcade": false,
+    "ZombieDefault": false,
+    "ZombieLostCityJane": false,
+    "ZombiePiano": false,
+    "ZombieNewspaper": false,
+    "ZombieExplorer": false,
+    "ZombieIceAgeTroglobite": false,
+    "ZombieDarkKing": false,
+    "ZombieProspector": false,
+    "ZombieModernAllStar": false,
+    "ZombieBucketHead": false,
+    "ZombieIceAgeHunter": false,
+    "ZombieWizard": false,
+    "ZombieBeachOctopus": false,
+    "ZombieKnight": false,
+    "ZombieBrickHead": false,
+    "ZombieBeachFisherman": false,
+    "ZombieBeachSnorkel": false,
+    "ZombieCrystalSkull": false
+  },
+  "newsList": [],
+  "greenhouse": {
+    "pots": [
+      [
+        {
+          "x": 1,
+          "y": 1,
+          "isLocked": false,
+          "plantedTime": 0,
+          "isReady": false
+        },
+        {
+          "x": 2,
+          "y": 1,
+          "isLocked": false,
+          "plantedTime": 0,
+          "isReady": false
+        },
+        {
+          "x": 3,
+          "y": 1,
+          "isLocked": false,
+          "plantedTime": 0,
+          "isReady": false
+        },
+        {
+          "x": 4,
+          "y": 1,
+          "isLocked": false,
+          "plantedTime": 0,
+          "isReady": false
+        },
+        {
+          "x": 5,
+          "y": 1,
+          "isLocked": false,
+          "plantedTime": 0,
+          "isReady": false
+        }
+      ],
+      [
+        {
+          "x": 1,
+          "y": 2,
+          "isLocked": true,
+          "plantedTime": 0,
+          "isReady": false
+        },
+        {
+          "x": 2,
+          "y": 2,
+          "isLocked": true,
+          "plantedTime": 0,
+          "isReady": false
+        },
+        {
+          "x": 3,
+          "y": 2,
+          "isLocked": true,
+          "plantedTime": 0,
+          "isReady": false
+        },
+        {
+          "x": 4,
+          "y": 2,
+          "isLocked": true,
+          "plantedTime": 0,
+          "isReady": false
+        },
+        {
+          "x": 5,
+          "y": 2,
+          "isLocked": true,
+          "plantedTime": 0,
+          "isReady": false
+        }
+      ],
+      [
+        {
+          "x": 1,
+          "y": 3,
+          "isLocked": true,
+          "plantedTime": 0,
+          "isReady": false
+        },
+        {
+          "x": 2,
+          "y": 3,
+          "isLocked": true,
+          "plantedTime": 0,
+          "isReady": false
+        },
+        {
+          "x": 3,
+          "y": 3,
+          "isLocked": true,
+          "plantedTime": 0,
+          "isReady": false
+        },
+        {
+          "x": 4,
+          "y": 3,
+          "isLocked": true,
+          "plantedTime": 0,
+          "isReady": false
+        },
+        {
+          "x": 5,
+          "y": 3,
+          "isLocked": true,
+          "plantedTime": 0,
+          "isReady": false
+        }
+      ],
+      [
+        {
+          "x": 1,
+          "y": 4,
+          "isLocked": true,
+          "plantedTime": 0,
+          "isReady": false
+        },
+        {
+          "x": 2,
+          "y": 4,
+          "isLocked": true,
+          "plantedTime": 0,
+          "isReady": false
+        },
+        {
+          "x": 3,
+          "y": 4,
+          "isLocked": true,
+          "plantedTime": 0,
+          "isReady": false
+        },
+        {
+          "x": 4,
+          "y": 4,
+          "isLocked": true,
+          "plantedTime": 0,
+          "isReady": false
+        },
+        {
+          "x": 5,
+          "y": 4,
+          "isLocked": true,
+          "plantedTime": 0,
+          "isReady": false
+        }
+      ]
+    ]
+  },
+  "gameDifficulty": 3,
+  "plantFoods": 0,
+  "completedQuestIds": [],
+  "maxMupoint": 0,
+  "dailyOfferPurchasedToday": false
+}

@@ -1,0 +1,23 @@
+# Gradle & Build files
+.gradle/
+build/
+**/build/
+target/
+**/target/
+*.class
+
+# IDE & macOS files
+.idea/
+*.iml
+.DS_Store
+**/.DS_Store
+
+# Default ignored files
+/shelf/
+/workspace.xml
+/queries/
+/dataSources/
+/dataSources.local.xml
+/httpRequests/
+
+/assets/
