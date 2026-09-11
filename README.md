@@ -7,7 +7,7 @@ A desktop recreation of the popular strategy tower defense game *Plants vs. Zomb
 ## 🎥 Gameplay Demo
 
 [![Watch PVZ2 Gameplay](assets/ScreenshotPVZ.png)](assets/DemoPVZ.mp4)
-*روی عکس کلیک کنید تا ویدیوی باکیفیت بازی پخش شود.*
+*Click on the photo to watch the video.*
 
 ## 🛠️ Project Status: Work in Progress (WIP)
 This repository represents a **3-member team project**. The core game logic, state machines, and data persistence layers are nearing completion. The upcoming development phases will focus heavily on integrating advanced graphical assets and implementing networking capabilities.
